@@ -173,5 +173,5 @@ systemctl enable NetworkManager
 ### 20. Install desktop environment
 After reboot, install essential packages:
 ```bash
-sudo pacman -S budgie lightdm-gtk-greeter papirus-icon-theme arc-gtk-theme alacritty
+sudo pacman -S budgie ly papirus-icon-theme arc-gtk-theme alacritty
 ```
